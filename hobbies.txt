@@ -1,1 +1,1 @@
-var hobbies = ["hiking", "reading", "learning new things", "house projects", "yoga"];
+var hobbies = ["hiking", "reading", "learning new things", "house projects"];
